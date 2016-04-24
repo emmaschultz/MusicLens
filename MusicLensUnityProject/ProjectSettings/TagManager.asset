@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainMetronomeButtons
+  - TextToAppear
+  - SubChangeStyleMenu
+  - MetronomeMenuButton
+  - SubChangeTempo
+  - ToAppear
+  - MainMenu
+  - MainMenuSub
+  - ColorOptions
+  - ButtonText
+  - blinkSphere
+  - PitchButtons
+  - TuningFork
+  - TuningForkMenuButton
+  - MainTunerButtons
+  - MainSheetMusicButtons
+  - p30
+  - p40
+  - m40
+  - m30
+  - m50
+  - p10
+  - p20
+  - 0
+  - m20
+  - m10
+  - p50
+  - TunerArm
+  - noteBox
+  - TunerObject
+  - TuningFork
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
